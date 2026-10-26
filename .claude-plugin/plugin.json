@@ -1,0 +1,9 @@
+{
+  "name": "timestamps",
+  "version": "0.2.0",
+  "description": "IRC-style [HH:MM] in front of each user and assistant message",
+  "author": {
+    "name": "juha"
+  },
+  "types": "./types/index.d.ts"
+}
